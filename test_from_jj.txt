@@ -1,7 +1,5 @@
 x = 0
-y = 10
+y = 10 
 z = x+y
 
 edit from J
-
-100
